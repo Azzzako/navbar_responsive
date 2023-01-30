@@ -30,7 +30,7 @@
 }
 
 .logo_container>svg:nth-child(1) {
-    fill: #e0792a;
+    fill: #c0f698;
     margin-right: 0.5rem;
 }
 
@@ -92,7 +92,7 @@
 
 .item:hover {
     color: #fff;
-    background-color: #e0792a;
+    background-color: #c0f698;
     transition: 0.5s all ease;
 }
 
@@ -111,8 +111,8 @@
     align-items: center;
 }
 
-.length_cart{
-    color: #e0792a;
+.length_cart {
+    color: #c0f698;
     position: relative;
     right: 12px;
     top: 5px;
@@ -137,7 +137,7 @@
     }
 
     .mobile_icon>svg {
-        fill: #e0792a;
+        fill: #c0f698;
         margin-right: 0.5rem;
     }
 }

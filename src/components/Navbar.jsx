@@ -4,7 +4,7 @@ import { TfiAlignJustify } from "react-icons/tfi";
 import { FiShoppingCart } from "react-icons/fi"
 import { DiRuby } from "react-icons/di"
 import { IconContext } from "react-icons/lib";
-import "./Navbar.css"
+import "../components/Navbar.css"
 
 export const Navbar = () => {
 
